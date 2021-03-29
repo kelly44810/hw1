@@ -1,0 +1,23 @@
+
+
+h1 {
+  color:gray;
+}
+p {
+  color:darkblue;
+}
+
+.box-a{
+	background-color: lightblue;
+}
+.article-body {
+  background-color: lightblue;
+}
+
+#footer-p {
+  color: darkgray;
+}
+
+header p {
+  color: gray;
+}

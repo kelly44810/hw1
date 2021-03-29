@@ -1,0 +1,27 @@
+html {
+}
+
+.header {
+	color: black;
+	margin: 80px;
+}
+
+.content-area {
+	display: flex;
+
+}
+.main-area {
+	background-color: lightgray;
+	color: black;
+	margin: 50px;
+	width: 60%;
+}
+
+.sidebar {
+	width: 40%;
+}
+
+.footer {
+	color: black;
+	margin: 66px;
+}
